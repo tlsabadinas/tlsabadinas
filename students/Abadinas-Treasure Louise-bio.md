@@ -1,0 +1,4 @@
+- Year/Section: 3rd Year / G01
+- Favorite Language: Java(eme)
+- One Git Tip Learned: Use `git status` often
+- GitHub: @tlsabadinas
